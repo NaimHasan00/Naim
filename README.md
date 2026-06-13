@@ -1,6 +1,5 @@
-Never copy this project
-tell me in fb if u are interested to copy or use this project
-if u use it without my permission
-U will be a gay/lesbian
-mind my word.
-thank u
+This is a Vibe coded Portfolio by Md Naim Hasan. While building this website, I tried to show my vibe coding skills and tried to enhance my knowledge about HTML, CSS. 
+This is the only official portfolio by Md Naim Hasan
+
+Fb-https://www.facebook.com/ewwnaim
+Website: https://naimhasan99.netlify.app
